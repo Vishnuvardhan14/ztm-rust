@@ -17,4 +17,4 @@ fn last_name() {
 fn main() {
     first_name();
     last_name();
-} 
+}
