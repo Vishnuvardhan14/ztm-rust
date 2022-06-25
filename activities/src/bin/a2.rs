@@ -13,7 +13,6 @@ fn display_result(result: i32){
     println!("{:?}",result);
 }
 // * Use the "{:?}" token in the println macro to display the result
-
 fn main() {
     let result = sum(2, 2);
     display_result(result);
