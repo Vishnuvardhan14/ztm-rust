@@ -9,3 +9,4 @@
 // * Use an enum for the box color
 // * Implement functionality on the box struct to create a new box
 // * Implement functionality on the box struct to print the characteristics
+fn main(){}
