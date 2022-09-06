@@ -45,6 +45,7 @@ impl ShippingBox{
         Self{
             weight,
             color,
+            dimensions
         }
     }
     fn print(&self){
