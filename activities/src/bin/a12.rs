@@ -50,8 +50,16 @@ impl ShippingBox{
     }
     fn print(&self){
         self.color.print();
+        self.dimensions.print();
+        println!("weight: {:?}",self.weight);
     }
 }
 fn main(){
+    let small_dimenions=Dimensions{
+        width:1.0,
+        height:2.0,
+        depth:3.0,
+    };
+    let small_box=ShippingBox::
     
 }
